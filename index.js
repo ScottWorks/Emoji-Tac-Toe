@@ -1,3 +1,5 @@
+'use strict';
+
 const { validatePlayer } = require('./Validation');
 const { checkRows, checkColumns, checkDiagonal } = require('./Utility');
 

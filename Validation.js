@@ -1,3 +1,5 @@
+'use strict';
+
 const validatePlayer = (players) => {
   if (players && players.p1 && players.p2) {
     if (
